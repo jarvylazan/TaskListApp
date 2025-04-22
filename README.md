@@ -50,6 +50,9 @@ Assignment4/
 ├── README.md
 ```
 
+## Issues encountered During the Assigment
+1. Had issues generating the main.py autodoc
+
 ## 🙋‍♂️ Author
 
-Your Name – 2025
+Jarvy Lazan – 2025
